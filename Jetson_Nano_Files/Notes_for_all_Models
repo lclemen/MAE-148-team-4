@@ -9,12 +9,15 @@ trial2 - next set of data to optimize first 20
 trial3 - first 20 laps on new camera angle
 trial4 - updated model with more data - still shaky on several turns
 trial5 - more data with clean laps. Model is kind of able to complete laps autonomously, with careful supervision on two sharp turns
+ayush1 - trained data by ayush on 2.10
+ayush2 - moved chairs and cones for more robust model
 
 --- the combo AI models were taken by stitching together previous AI models
 
 combo1 - combines trial3 and trial4
 combo2 - combines trial5 with combo1, in other words, this model combines trial3, trial4, and trial5 AI model
 combo3 - adds corner data to combo2 AI model
+combo4 - combines ayush data sets with combo3
 
 Current: combo2 is the culmination of all sets of good data. 
 The turns to watch out for are the one in the back left corner and frontmost right corner of the tent.

@@ -23,3 +23,10 @@ Current: combo2 is the culmination of all sets of good data.
 The turns to watch out for are the one in the back left corner and frontmost right corner of the tent.
 The myconfig file is set to a low AI throttle speed of 0.72 to help the model make turns.
 
+--- NEW WORKING MODEL FOR INDOOR TRACK ---
+
+data and AI models both are named the following:
+- indoor_new1 - this is the first 10-20 laps done
+- indoor_new2 - focuses on corner difficulties
+
+current working AI model is indoor_new2, and works at 0.90 throttle multiplier.
